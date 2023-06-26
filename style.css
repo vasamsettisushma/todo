@@ -1,0 +1,136 @@
+.bg-container {
+    background-image: linear-gradient(to bottom, #34a8eb, #82c6ed, #54e871);
+    height: 100vh;
+    width: 100vw;
+}
+
+.heading {
+    text-align: center;
+    font-family: "roboto";
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+}
+
+.paragraph {
+    text-align: left;
+    font-family: "roboto";
+    font-style: italic;
+    color: #f5cb11;
+
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+
+}
+
+.highlight {
+    text-align: left;
+    font-family: "roboto";
+    font-style: italic;
+    color: #cf4666;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.first-input {
+    background-color: white;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #051745;
+    padding: 5px;
+    width: 1030px;
+    height: 45px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+
+
+}
+
+.ul-element {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.button {
+    color: white;
+    background-color: #d90f6a;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-color: white;
+    width: 55px;
+    height: 33px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.li-element {
+    margin: 15px;
+}
+
+.containerr {
+    height: 4%;
+    width: 90%;
+    background-color: white;
+    margin: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.labelling {
+    text-align: left;
+    font-family: "roboto";
+    font-style: italic;
+    font-weight: bold;
+    color: #d90f6a;
+    width: 95%;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+
+}
+
+.input-element {
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+    margin-left: 10px;
+}
+
+.delete-container {
+    width: 5%;
+    height: 35px;
+    margin-top: 5px;
+    background-color: white;
+    text-align: right;
+    margin-left: 150px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+
+.delete-icon {
+    padding: 10px;
+    padding-left: 8px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
